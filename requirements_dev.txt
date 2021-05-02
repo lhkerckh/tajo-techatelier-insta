@@ -1,0 +1,3 @@
+-r requirements.txt
+watermark==2.2.0
+notebook==6.3.0
